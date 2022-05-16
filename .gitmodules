@@ -1,0 +1,6 @@
+[submodule "backend-curswork"]
+	path = backend-curswork
+	url = https://github.com/KrotovPetr/backend-curswork.git
+[submodule "cursproject4sem"]
+	path = cursproject4sem
+	url = https://github.com/KrotovPetr/cursproject4sem.git
